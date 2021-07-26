@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeekEndTask", "WeekEndTask.csproj", "{FC5349EA-7320-4984-ABB0-40DC6458ADAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyboard", "..\Keyboard\Keyboard.csproj", "{FE42DE11-355A-4C62-83F3-5E133A64EC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5349EA-7320-4984-ABB0-40DC6458ADAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5349EA-7320-4984-ABB0-40DC6458ADAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5349EA-7320-4984-ABB0-40DC6458ADAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5349EA-7320-4984-ABB0-40DC6458ADAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE42DE11-355A-4C62-83F3-5E133A64EC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE42DE11-355A-4C62-83F3-5E133A64EC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE42DE11-355A-4C62-83F3-5E133A64EC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE42DE11-355A-4C62-83F3-5E133A64EC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D08F59A-DCB7-464F-BC68-11EC0DCD7D2D}
+	EndGlobalSection
+EndGlobal
